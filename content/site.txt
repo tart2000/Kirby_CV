@@ -1,0 +1,17 @@
+Title: CV - Arthur Schmitt
+
+----
+
+Author: Arthur Schmitt
+
+----
+
+Description: This is Arthur's CV.
+
+----
+
+Keywords: web, hire, job, design, researuch, exploration
+
+----
+
+Copyright: © 2009-(date: Year) (link: http://getkirby.com text: Kirby)

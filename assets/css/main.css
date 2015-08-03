@@ -1,0 +1,61 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+h2 {
+	border-top: 4px solid black;
+	border-bottom: 1px solid black; 
+	padding-bottom: 2px;
+	padding-top: 3px;
+	margin-top: 0px;
+}
+h3 {
+	font-size: 1.2em;
+}
+p {
+	margin-bottom: 5px;
+}
+.right {
+	float: right;
+	position: relative;
+	top: 13px;
+}
+
+/* Text blocks */
+.text img {
+	max-width: 100%;
+}
+.mt {
+	margin-top: 25px;
+}
+.mb {
+	margin-bottom: 20px;
+}
+.portrait {
+	border-radius: 50%; 
+	overflow: hidden;
+}
+.tag {
+	background-color: #efefef; 
+	padding: 8px; 
+	border-radius: 12px; 
+	margin-right: 3px;
+	line-height: 40px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
