@@ -10,15 +10,15 @@ Text:
 
 ----
 
-website: http://arthurschmitt.com
+Website: http://arthurschmitt.com
 
 ----
 
-email: ping@arthurschmitt.com
+Email: ping@arthurschmitt.com
 
 ----
 
 Competences: 
 
-Workshop design, co-creation, workshop facilitation, prototyping, 3Dscanning, 3Dprinting, laser cutting, DIY, graphic design,Illustrator, Photoshop, Web design, Wordpress, CSS3, Javascript, Bootstrap, 3D modelling, OpenScad, Rhino, TinkerCAD, Sketchup, Collaboration, GDocs, Trello, Slack, Hackpad, Github
+Workshop design, co-creation, workshop facilitation, prototyping, 3D scanning, 3D printing, laser cutting, DIY, graphic design, Illustrator, Photoshop, Web design, Wordpress, CSS3, Javascript, Bootstrap, 3D modelling, OpenScad, Rhino, TinkerCAD, Sketchup, Collaboration, GDocs, Trello, Slack, Hackpad, Github
 Creative, curious and open.

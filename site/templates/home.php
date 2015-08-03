@@ -13,12 +13,15 @@
 					<?php echo $page->text()->kirbytext() ?>
 				</div>
 				<h2>Competences</h2>
-				<?php foreach ($page->competences()->split(',') as $comp) : ?>
-					<span class="tag"><?php echo $comp ?></span>
-				<?php endforeach ?>
+				<div class="mt mb">
+					<?php foreach ($page->competences()->split(',') as $comp) : ?>
+						<div class="tag"><?php echo $comp ?></div>
+					<?php endforeach ?>
+				</div>
 			</div>	
 			<div class="col-xs-8">
 				<?php snippet('experience') ?>
+				<?php snippet('formations') ?>
 			</div>
 		</div>
 	</div>

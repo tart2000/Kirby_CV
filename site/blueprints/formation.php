@@ -8,14 +8,11 @@ fields:
   title:
     label: Title
     type:  text
-  job:
-  	label: Job title
-  	type: text
-  xpdates:
+  fordates:
     label: Dates
     type:  text
     width: 1/2
-  xplink:
+  forlink:
   	label: Lien
   	type: Url
   	width: 1/2

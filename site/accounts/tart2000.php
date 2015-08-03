@@ -7,8 +7,8 @@ password: >
 language: en
 role: admin
 history:
-  - experiences
+  - formations/auto-formation
   - home
-  - experiences/helen-hamlyn-research-centre
-  - experiences/d-labs-ensci-design-school
-  - experiences/nod-a
+  - formations/ensam
+  - formations/rca
+  - formations

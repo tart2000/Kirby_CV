@@ -1,0 +1,17 @@
+Title: Auto-formation
+
+----
+
+Fordates: 2008 > pres.
+
+----
+
+Forlink: 
+
+----
+
+Text: Slowly becoming a decent coder.
+
+----
+
+Skills: HTML5, CSS3, Javascript, Meteor.js
